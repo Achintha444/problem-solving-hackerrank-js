@@ -62,26 +62,73 @@ In this repository you can find the solutions for the following problem solving 
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/20-bill-division.js)
 
 - [21. Sales by Match](https://www.hackerrank.com/challenges/sales-by-match/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/21-sales-by-match.js)
+
 - [22. Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/22-drawing-book.js)
+
 - [23. Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/23-counting-valleys.js)
+
 - [24. Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/24-electronics-shop.js)
+
 - [25. Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/25-cats-and-a-mouse.js)
+
 - [26. Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/26-forming-a-magic-square.js)
+
 - [27. Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/27-picking-numbers.js)
+
 - [28. Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/28-climbing-the-leaderboard.js)
+
 - [29. The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/29-the-hurdle-race.js)
+
 - [30. Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/30-designer-pdf-viewer.js)
+
 - [31. Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/31-utopian-tree.js)
+
 - [32. Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/32-angry-professor.js)
+
 - [33. Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/33-beautiful-days-at-the-movies.js)
+
 - [34. Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/34-viral-advertising.js)
+
 - [35. Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/35-save-the-prisoner.js)
+
 - [36. Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/36-circular-array-rotation.js)
+
 - [37. Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/37-sequence-equation.js)
+
 - [38. Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/38-jumping-on-the-clouds-revisited.js)
+
 - [39. Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/39-find-digits.js)
+
 - [40. Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/40-extra-long-factorials.js)
+
 - [41. Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/41-append-and-delete.js)
+
 - [42. Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/42-sherlock-and-squares.js)
+
 - [43. Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/43-library-fine.js)
+
 - [44. Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/44-cut-the-sticks.js)

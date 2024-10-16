@@ -1,7 +1,4 @@
-/**
- * In here the question is asking for the sum of two numbers, and we can achieve by the above function.
- * The function takes two parameters, a and b, and returns their sum.
- */
-function solveMeFirst(a, b) {
-    return a + b;
-}
+// Solution for 1-solve-me-first.js
+// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/1-solve-me-first.js
+
+// Your solution code here
