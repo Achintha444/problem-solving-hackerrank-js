@@ -2,9 +2,11 @@
 In this repository you can find the solutions for the following problem solving questions of HackerRank completed using JavaScript. You can find them in the file with the same name as the question.
 
 - [1. Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
-  - [Answer](https://github.com/AbdulrahmanAlkandari/hackerrank-problems/blob/main/1-solve-me-first.js)
-  
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/1-solve-me-first.js)
+
 - [2. Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/2-simple-array-sum.js)
+  
 - [3. Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
 - [4. A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)
 - [5. Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)
