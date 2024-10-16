@@ -6,25 +6,61 @@ In this repository you can find the solutions for the following problem solving 
 
 - [2. Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/2-simple-array-sum.js)
-  
+
 - [3. Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/3-compare-the-triplets.js)
+
 - [4. A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/4-a-very-big-sum.js)
+
 - [5. Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/5-diagonal-difference.js)
+
 - [6. Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/6-plus-minus.js)
+
 - [7. Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/7-staircase.js)
+
 - [8. Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/8-mini-max-sum.js)
+
 - [9. Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/9-birthday-cake-candles.js)
+
 - [10. Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/10-time-conversion.js)
+
 - [11. Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/11-grading-students.js)
+
 - [12. Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/12-apple-and-orange.js)
+
 - [13. Number Line Jumps](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/13-number-line-jumps.js)
+
 - [14. Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/14-between-two-sets.js)
+
 - [15. Breaking the Records](https://www.hackerrank.com/challenges/breaking-the-records/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/15-breaking-the-records.js)
+
 - [16. Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/16-subarray-division.js)
+
 - [17. Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/17-divisible-sum-pairs.js)
+
 - [18. Migratory birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/18-migratory-birds.js)
+
 - [19. Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/19-day-of-the-programmer.js)
+
 - [20. Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/20-bill-division.js)
+
 - [21. Sales by Match](https://www.hackerrank.com/challenges/sales-by-match/problem?isFullScreen=true)
 - [22. Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)
 - [23. Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)
