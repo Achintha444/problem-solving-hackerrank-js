@@ -1,4 +1,4 @@
 // Solution for 4-a-very-big-sum.js
-// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/4-a-very-big-sum.js
+// Problem URL: https://www.hackerrank.com/challenges/a-very-big-sum
 
 // Your solution code here

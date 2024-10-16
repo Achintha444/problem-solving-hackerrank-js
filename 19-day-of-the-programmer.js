@@ -1,4 +1,4 @@
 // Solution for 19-day-of-the-programmer.js
-// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/19-day-of-the-programmer.js
+// Problem URL: https://www.hackerrank.com/challenges/day-of-the-programmer
 
 // Your solution code here

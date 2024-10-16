@@ -1,4 +1,4 @@
 // Solution for 37-sequence-equation.js
-// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/37-sequence-equation.js
+// Problem URL: https://www.hackerrank.com/challenges/permutation-equation
 
 // Your solution code here

@@ -1,4 +1,4 @@
 // Solution for 33-beautiful-days-at-the-movies.js
-// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/33-beautiful-days-at-the-movies.js
+// Problem URL: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies
 
 // Your solution code here

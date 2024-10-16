@@ -1,4 +1,4 @@
 // Solution for 5-diagonal-difference.js
-// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/5-diagonal-difference.js
+// Problem URL: https://www.hackerrank.com/challenges/diagonal-difference
 
 // Your solution code here

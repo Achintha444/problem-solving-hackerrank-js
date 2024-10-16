@@ -1,4 +1,4 @@
 // Solution for 43-library-fine.js
-// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/43-library-fine.js
+// Problem URL: https://www.hackerrank.com/challenges/library-fine
 
 // Your solution code here

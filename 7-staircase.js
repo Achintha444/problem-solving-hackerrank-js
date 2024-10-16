@@ -1,4 +1,4 @@
 // Solution for 7-staircase.js
-// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/7-staircase.js
+// Problem URL: https://www.hackerrank.com/challenges/staircase
 
 // Your solution code here

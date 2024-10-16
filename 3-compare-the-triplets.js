@@ -1,5 +1,5 @@
 // Solution for 3-compare-the-triplets.js
-// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/3-compare-the-triplets.js
+// Problem URL: https://www.hackerrank.com/challenges/compare-the-triplets
 
 /**
  * The task is to find their comparison points by comparing a[0] with b[0], a[1] with b[1], and a[2] with b[2].
@@ -11,15 +11,14 @@
  */
 function compareTriplets(a, b) {
     let questionCount = a.length;
-    
+
     let aliceCount = 0;
     let bobCount = 0;
-    
-    for (let i = 0; i < questionCount; i++) {
-        if (a[i]>b[i]) aliceCount+=1;
-        else if (a[i]<b[i]) bobCount+=1;
-    }
-    
-    return aliceCount+" "+bobCount;
-}
 
+    for (let i = 0; i < questionCount; i++) {
+        if (a[i] > b[i]) aliceCount += 1;
+        else if (a[i] < b[i]) bobCount += 1;
+    }
+
+    return aliceCount + " " + bobCount;
+}

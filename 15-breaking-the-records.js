@@ -1,4 +1,4 @@
 // Solution for 15-breaking-the-records.js
-// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/15-breaking-the-records.js
+// Problem URL: https://www.hackerrank.com/challenges/breaking-best-and-worst-records
 
 // Your solution code here

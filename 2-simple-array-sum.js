@@ -1,4 +1,4 @@
 // Solution for 2-simple-array-sum.js
-// Problem URL: https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/2-simple-array-sum.js
+// Problem URL: https://www.hackerrank.com/challenges/simple-array-sum
 
 // Your solution code here
