@@ -6,12 +6,12 @@
  * count of spaces and hashes and decrease the space count and increase the hash count in each iteration.
  */
 function staircase(n) {
-    let spaceCount = n-1
+    let spaceCount = n - 1
     let hashCount = 1
-    
-    for (let i=1; i<=n; i++) {
-        console.log((" ".repeat(spaceCount))+("#".repeat(hashCount)));
-        spaceCount-=1
-        hashCount+=1
+
+    for (let i = 1; i <= n; i++) {
+        console.log((" ".repeat(spaceCount)) + ("#".repeat(hashCount)));
+        spaceCount -= 1
+        hashCount += 1
     }
 }

@@ -7,6 +7,6 @@
  */
 function aVeryBigSum(ar) {
     let value = 0;
-    ar.forEach((val) => value+=val);
+    ar.forEach((val) => value += val);
     return value;
 }

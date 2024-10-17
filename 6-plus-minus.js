@@ -11,14 +11,14 @@ function plusMinus(arr) {
     let positiveCount = 0
     let minusCount = 0
     let zeroCount = 0
-    
-    arr.forEach((val)=> {
-        if (val > 0) positiveCount+=1
-        else if (val===0) zeroCount+=1
-        else minusCount+=1
+
+    arr.forEach((val) => {
+        if (val > 0) positiveCount += 1
+        else if (val === 0) zeroCount += 1
+        else minusCount += 1
     })
-    
-    console.log(positiveCount/arr.length);
-    console.log(minusCount/arr.length);
-    console.log(zeroCount/arr.length);
+
+    console.log(positiveCount / arr.length);
+    console.log(minusCount / arr.length);
+    console.log(zeroCount / arr.length);
 }

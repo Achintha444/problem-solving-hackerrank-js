@@ -15,19 +15,19 @@
 function diagonalDifference(arr) {
     let primaryDiagonalCount = 0;
     let secondaryDiagonalCount = arr.length - 1;
-    
+
     let primaryDiagonalValue = 0;
     let secondaryDiagonalValue = 0;
-    
+
     for (let i = 0; i < arr.length; i++) {
         let currentArray = arr[i];
-        
+
         primaryDiagonalValue += currentArray[primaryDiagonalCount];
         secondaryDiagonalValue += currentArray[secondaryDiagonalCount];
-        
-        primaryDiagonalCount+=1
-        secondaryDiagonalCount-=1
+
+        primaryDiagonalCount += 1
+        secondaryDiagonalCount -= 1
     }
-    
+
     return Math.abs(primaryDiagonalValue - secondaryDiagonalValue);
 }
