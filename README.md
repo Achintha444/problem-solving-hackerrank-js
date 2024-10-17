@@ -133,4 +133,7 @@ In this repository you can find the solutions for the following problem solving 
 - [44. Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/44-cut-the-sticks.js)
 
+- [45. Non Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/45-non-divisible-subset.js)
+
 Will add the rest of the answers as I complete them.
