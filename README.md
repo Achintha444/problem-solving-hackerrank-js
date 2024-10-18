@@ -139,4 +139,10 @@ In this repository you can find the solutions for the following problem solving 
 - [46. Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/46-repeated-string.js)
 
+- [47. Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/47-jumping-on-the-clouds.js)
+
+- [48. Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/48-equalize-the-array.js)
+
 Will add the rest of the answers as I complete them.
