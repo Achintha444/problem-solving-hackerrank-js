@@ -1,5 +1,5 @@
-// Solution for 47-jumping-on-the-clouds.js
-// Problem URL: https://www.hackerrank.com/challenges/jumping-on-the-clouds
+// Solution for 48-equalize-the-array
+// Problem URL: https://www.hackerrank.com/challenges/equalize-the-array/
 
 /**
  * To solve this we need to find the maximum occurances of a number and reduce the occuranecs from the length of the array.

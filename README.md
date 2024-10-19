@@ -145,4 +145,7 @@ In this repository you can find the solutions for the following problem solving 
 - [48. Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/48-equalize-the-array.js)
 
+- [49. Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/49-queens-attack-ii.js)
+
 Will add the rest of the answers as I complete them.
