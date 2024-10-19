@@ -148,4 +148,7 @@ In this repository you can find the solutions for the following problem solving 
 - [49. Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/49-queens-attack-ii.js)
 
+- [50. ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/50-acm-icpc-team.js)
+
 Will add the rest of the answers as I complete them.
