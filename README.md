@@ -151,4 +151,7 @@ In this repository you can find the solutions for the following problem solving 
 - [50. ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/50-acm-icpc-team.js)
 
+- [51. Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/51-taum-and-bday.js)
+
 Will add the rest of the answers as I complete them.
