@@ -154,4 +154,7 @@ In this repository you can find the solutions for the following problem solving 
 - [51. Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/51-taum-and-bday.js)
 
+- [52. Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/.js)
+
 Will add the rest of the answers as I complete them.
