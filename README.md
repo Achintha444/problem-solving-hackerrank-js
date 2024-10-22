@@ -163,4 +163,7 @@ In this repository you can find the solutions for the following problem solving 
 - [54. Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/54-bigger-is-greater.js)
 
+- [55. Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/55-modified-kaprekar-numbers.js)
+
 Will add the rest of the answers as I complete them.

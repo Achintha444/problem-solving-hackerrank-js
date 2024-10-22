@@ -1,5 +1,5 @@
-// Solution for 53-encryption.js
-// Problem URL: https://www.hackerrank.com/challenges/encryption/problem
+// Solution for 54-bigger-is-greater.js
+// Problem URL: https://www.hackerrank.com/challenges/bigger-is-greater/problem
 
 /**
  * To solve this we need to find the next largest Lexicographical order string. To do that we need to find the right most
