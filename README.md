@@ -169,4 +169,7 @@ In this repository you can find the solutions for the following problem solving 
 - [56. Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/56-beautiful-triplets.js)
 
+- [57. Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/57-minimum-distances.js)
+
 Will add the rest of the answers as I complete them.
