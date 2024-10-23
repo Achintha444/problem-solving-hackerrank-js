@@ -172,4 +172,7 @@ In this repository you can find the solutions for the following problem solving 
 - [57. Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/57-minimum-distances.js)
 
+- [58. Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/58-halloween-sale.js)
+
 Will add the rest of the answers as I complete them.
