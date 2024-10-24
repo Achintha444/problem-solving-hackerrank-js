@@ -181,4 +181,7 @@ In this repository you can find the solutions for the following problem solving 
 - [60. Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/60-chocolate-feast.js)
 
+- [61. Service Lane](https://www.hackerrank.com/challenges/service-lane/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/61-service-lane.js)
+
 Will add the rest of the answers as I complete them.
