@@ -184,4 +184,7 @@ In this repository you can find the solutions for the following problem solving 
 - [61. Service Lane](https://www.hackerrank.com/challenges/service-lane/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/61-service-lane.js)
 
+- [62. Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/62-lisa-workbook.js)
+
 Will add the rest of the answers as I complete them.
