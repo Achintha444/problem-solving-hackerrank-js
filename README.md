@@ -190,4 +190,7 @@ In this repository you can find the solutions for the following problem solving 
 - [63. Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/63-flatland-space-stations.js)
 
+- [64. Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/64-fair-rations.js)
+
 Will add the rest of the answers as I complete them.
