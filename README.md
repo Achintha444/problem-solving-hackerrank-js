@@ -187,4 +187,7 @@ In this repository you can find the solutions for the following problem solving 
 - [62. Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/62-lisa-workbook.js)
 
+- [63. Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/63-flatland-space-stations.js)
+
 Will add the rest of the answers as I complete them.
