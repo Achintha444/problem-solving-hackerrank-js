@@ -193,4 +193,7 @@ In this repository you can find the solutions for the following problem solving 
 - [64. Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/64-fair-rations.js)
 
+- [65. Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/65-cavity-map.js)
+
 Will add the rest of the answers as I complete them.
