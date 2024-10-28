@@ -196,4 +196,7 @@ In this repository you can find the solutions for the following problem solving 
 - [65. Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/65-cavity-map.js)
 
+- [66. Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/66-manasa-and-stones.js)
+
 Will add the rest of the answers as I complete them.
