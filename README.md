@@ -199,4 +199,7 @@ In this repository you can find the solutions for the following problem solving 
 - [66. Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/66-manasa-and-stones.js)
 
+- [67. The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/67-the-grid-search.js)
+
 Will add the rest of the answers as I complete them.
