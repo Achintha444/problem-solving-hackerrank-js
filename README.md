@@ -202,4 +202,7 @@ In this repository you can find the solutions for the following problem solving 
 - [67. The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/67-the-grid-search.js)
 
+- [68. Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/68-happy-ladybugs.js)
+
 Will add the rest of the answers as I complete them.
