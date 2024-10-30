@@ -205,4 +205,8 @@ In this repository you can find the solutions for the following problem solving 
 - [68. Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/68-happy-ladybugs.js)
 
+- [69. Strange Counter](https://www.hackerrank.com/challengesstrange-code/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/69-strange-counter.js)
+
+
 Will add the rest of the answers as I complete them.
