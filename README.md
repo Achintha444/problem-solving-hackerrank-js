@@ -211,5 +211,8 @@ In this repository you can find the solutions for the following problem solving 
 - [70. 3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/70-3d-surface-area.js)
 
+- [71. Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/71-absolute-permutation.js)
+
 
 Will add the rest of the answers as I complete them.
