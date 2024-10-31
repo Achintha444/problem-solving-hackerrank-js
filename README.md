@@ -208,5 +208,8 @@ In this repository you can find the solutions for the following problem solving 
 - [69. Strange Counter](https://www.hackerrank.com/challengesstrange-code/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/69-strange-counter.js)
 
+- [70. 3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/70-3d-surface-area.js)
+
 
 Will add the rest of the answers as I complete them.
