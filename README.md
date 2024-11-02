@@ -214,5 +214,8 @@ In this repository you can find the solutions for the following problem solving 
 - [71. Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/71-absolute-permutation.js)
 
+- [72. The Boberman Game](https://www.hackerrank.com/challenges/bomber-man/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/72-the-boberman-game.js)
+
 
 Will add the rest of the answers as I complete them.
