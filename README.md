@@ -217,5 +217,8 @@ In this repository you can find the solutions for the following problem solving 
 - [72. The Boberman Game](https://www.hackerrank.com/challenges/bomber-man/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/72-the-boberman-game.js)
 
+- [73. Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/73-big-sorting.js)
+
 
 Will add the rest of the answers as I complete them.
