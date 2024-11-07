@@ -229,4 +229,7 @@ In this repository you can find the solutions for the following problem solving 
 - [76. Camel Case](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/76-camel-case.js)
 
+- [77. Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/77-insertion-sort-part-1.js)
+
 Will add the rest of the answers as I complete them.
