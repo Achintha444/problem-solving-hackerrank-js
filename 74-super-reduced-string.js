@@ -1,5 +1,5 @@
-// Solution for 73-big-sorting problem
-// Problem URL: https://www.hackerrank.com/challenges/big-sorting/problem
+// Solution for 74-super-reduced-string.js
+// Problem URL: https://www.hackerrank.com/challenges/super-reduced-string/problem?isFullScreen=true
 
 function superReducedString(s) {
     const remover = new RegExp("0", 'g');
