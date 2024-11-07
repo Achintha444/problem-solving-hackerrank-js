@@ -220,5 +220,13 @@ In this repository you can find the solutions for the following problem solving 
 - [73. Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/73-big-sorting.js)
 
+- [74. Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/74-super-reduced-string.js)
+
+- [75. Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/75-intro-to-tutorial-challenges.js)
+
+- [76. Camel Case](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/76-camel-case.js)
 
 Will add the rest of the answers as I complete them.
