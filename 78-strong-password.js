@@ -1,13 +1,11 @@
-// Solution for 77-insertion-sort-part-1.js
-// Problem URL: https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true
+// Solution for 78-strong-password.js
+// Problem URL: https://www.hackerrank.com/challenges/strong-password/problem
 
 /**
- * To solve this problem, we need to iterate from the last element of the array to the first element.
- * We also need to store the last element in a variable. Then, we need to compare the last element with the previous elements, 
- * and if the previous element is greater than the last element, we need to shift the previous element to the right. Continued
- * until we find an element that is less than or equal to the last element. Finally, we need to insert the last element at the
- * correct position. But if the last element is less than the first element, we need to insert it at the first position, we can 
- * check 
+ * To solve this problem, we need to iterate over the password and count the numbers, lowercase letters, uppercase letters, and special characters.
+ * Then, we need to check if the password is strong enough by comparing the count of each type of character with the minimum required count.
+ * If the password is not strong enough, we need to add the missing types of characters to the password. 
+ * Finally, we need to return the minimum number of characters that need to be added to make the password strong.
  */
 function minimumNumber(n, password) {
     const numbers = "0123456789".split("");
@@ -15,6 +13,7 @@ function minimumNumber(n, password) {
     const upper_case = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
     const special_characters = "!@#$%^&*()-+".split("");
 
+    // [ numbers count, lower_case count, upper_case count, special_characters count]
     const result = new Array(4).fill(0);
 
     password.split("").forEach((letter) => {

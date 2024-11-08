@@ -235,4 +235,7 @@ In this repository you can find the solutions for the following problem solving 
 - [78. Strong Password](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/78-strong-password.js)
 
+- [79. Two Characters](https://www.hackerrank.com/challenges/two-characters/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/79-two-characters.js)
+
 Will add the rest of the answers as I complete them.
