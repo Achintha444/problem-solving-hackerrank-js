@@ -232,4 +232,7 @@ In this repository you can find the solutions for the following problem solving 
 - [77. Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/77-insertion-sort-part-1.js)
 
+- [78. Strong Password](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/78-strong-password.js)
+
 Will add the rest of the answers as I complete them.
