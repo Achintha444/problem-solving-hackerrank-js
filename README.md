@@ -241,4 +241,7 @@ In this repository you can find the solutions for the following problem solving 
 - [80. Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/80-insertion-sort-part-2.js)
 
+- [81. Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/81-caesar-cipher.js)
+
 Will add the rest of the answers as I complete them.
