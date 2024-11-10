@@ -244,4 +244,7 @@ In this repository you can find the solutions for the following problem solving 
 - [81. Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/81-caesar-cipher.js)
 
+- [82. Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/82-mars-exploration.js)
+
 Will add the rest of the answers as I complete them.
