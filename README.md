@@ -247,4 +247,7 @@ In this repository you can find the solutions for the following problem solving 
 - [82. Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/82-mars-exploration.js)
 
+- [83. HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/83-hackerrank-in-a-string.js)
+
 Will add the rest of the answers as I complete them.
