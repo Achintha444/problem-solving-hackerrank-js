@@ -250,4 +250,7 @@ In this repository you can find the solutions for the following problem solving 
 - [83. HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/83-hackerrank-in-a-string.js)
 
+- [84. Pangrams](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/84-pangrams.js)
+
 Will add the rest of the answers as I complete them.
