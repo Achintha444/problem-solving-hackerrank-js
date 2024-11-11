@@ -253,4 +253,7 @@ In this repository you can find the solutions for the following problem solving 
 - [84. Pangrams](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/84-pangrams.js)
 
+- [85. Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/85-weighted-uniform-strings.js)
+
 Will add the rest of the answers as I complete them.

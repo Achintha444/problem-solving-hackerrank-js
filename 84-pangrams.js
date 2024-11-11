@@ -1,5 +1,5 @@
-// Solution for 83-pangrams.js
-// Problem URL: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
+// Solution for 84-pangrams.js
+// Problem URL: https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true
 
 /**
  * To solve this problem, we need to check if the string contains all the letters of the alphabet.
