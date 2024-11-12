@@ -256,4 +256,7 @@ In this repository you can find the solutions for the following problem solving 
 - [85. Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/85-weighted-uniform-strings.js)
 
+- [86. Funny String](https://www.hackerrank.com/challenges/funny-string/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/86-funny-string.js)
+
 Will add the rest of the answers as I complete them.
