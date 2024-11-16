@@ -259,4 +259,7 @@ In this repository you can find the solutions for the following problem solving 
 - [86. Funny String](https://www.hackerrank.com/challenges/funny-string/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/86-funny-string.js)
 
+- [87. Gemstones](https://www.hackerrank.com/challenges/gemstones/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/87-gemstones.js)
+
 Will add the rest of the answers as I complete them.
