@@ -262,4 +262,7 @@ In this repository you can find the solutions for the following problem solving 
 - [87. Gemstones](https://www.hackerrank.com/challenges/gemstones/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/87-gemstones.js)
 
+- [88. Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/88-alternating-characters.js)
+
 Will add the rest of the answers as I complete them.
