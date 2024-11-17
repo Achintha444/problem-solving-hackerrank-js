@@ -268,4 +268,7 @@ In this repository you can find the solutions for the following problem solving 
 - [89. Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/89-beautiful-binary-string.js)
 
+- [89. Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/90-closest-numbers.js)
+
 Will add the rest of the answers as I complete them.
