@@ -265,4 +265,7 @@ In this repository you can find the solutions for the following problem solving 
 - [88. Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/88-alternating-characters.js)
 
+- [89. Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/89-beautiful-binary-string.js)
+
 Will add the rest of the answers as I complete them.
