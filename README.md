@@ -271,4 +271,7 @@ In this repository you can find the solutions for the following problem solving 
 - [90. Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/90-closest-numbers.js)
 
+- [91. The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/91-the-love-letter-mystery.js)
+
 Will add the rest of the answers as I complete them.
