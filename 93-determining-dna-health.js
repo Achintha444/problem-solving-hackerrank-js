@@ -1,6 +1,10 @@
 // Solution for 93-determining-dna-health.js
 // Problem URL: https://www.hackerrank.com/challenges/determining-dna-health/problem?isFullScreen=true
 
+/**
+ * This solution only works for some test cases, for others its timing out. I will try to optimize it later.
+ */
+
 'use strict';
 
 process.stdin.resume();
