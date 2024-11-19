@@ -277,4 +277,7 @@ In this repository you can find the solutions for the following problem solving 
 - [92. Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/92-find-the-median.js)
 
+- [93. Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/93-determining-dna-health.js)
+
 Will add the rest of the answers as I complete them.
