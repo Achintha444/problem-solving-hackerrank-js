@@ -31,16 +31,29 @@ function dnaHealth(genes, health, first, last, d) {
     let result = 0;
     const checkGenes = [...genes].slice(first, last + 1);
     const checkHealth = [...health].slice(first, last + 1);
+    const storeSubStrMap = new Map();
 
     function countOverlappingSubstrings(str, subStr) {
         let count = 0;
         const subStrLength = subStr.length;
 
+        if (!str.includes(subStr)) return 0;
+
+        if (storeSubStrMap.get(subStrLength))
+            return storeSubStrMap.get(subStrLength).get(subStr) ? storeSubStrMap.get(subStrLength).get(subStr) : 0;
+
+        const lenSubStrMap = new Map();
+
         for (let i = 0; i <= str.length - subStrLength; i++) {
-            if (str.slice(i, i + subStrLength) === subStr) {
-                count++;
-            }
+            const subStrSlice = str.slice(i, i + subStrLength);
+
+            if (lenSubStrMap.get(subStrSlice)) lenSubStrMap.set(subStrSlice, lenSubStrMap.get(subStrSlice) + 1);
+            else lenSubStrMap.set(subStrSlice, 1);
+
+            if (subStrSlice === subStr) count++;
         }
+
+        storeSubStrMap.set(subStrLength, lenSubStrMap)
 
         return count;
     }
