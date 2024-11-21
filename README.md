@@ -280,4 +280,7 @@ In this repository you can find the solutions for the following problem solving 
 - [93. Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/93-determining-dna-health.js)
 
+- [94. Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/94-palindrome-index.js)
+
 Will add the rest of the answers as I complete them.
