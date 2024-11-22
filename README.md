@@ -283,4 +283,7 @@ In this repository you can find the solutions for the following problem solving 
 - [94. Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/94-palindrome-index.js)
 
+- [95. Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/95-fraudulent-activity-notifications.js)
+
 Will add the rest of the answers as I complete them.
