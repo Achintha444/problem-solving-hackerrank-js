@@ -286,4 +286,7 @@ In this repository you can find the solutions for the following problem solving 
 - [95. Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/95-fraudulent-activity-notifications.js)
 
+- [96. Anagram](https://www.hackerrank.com/challenges/anagram/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/96-anagram.js)
+
 Will add the rest of the answers as I complete them.
