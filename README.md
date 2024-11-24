@@ -289,4 +289,7 @@ In this repository you can find the solutions for the following problem solving 
 - [96. Anagram](https://www.hackerrank.com/challenges/anagram/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/96-anagram.js)
 
+- [97. Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/97-making-anagrams.js)
+
 Will add the rest of the answers as I complete them.
