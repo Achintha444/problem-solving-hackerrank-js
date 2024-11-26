@@ -292,4 +292,7 @@ In this repository you can find the solutions for the following problem solving 
 - [97. Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/97-making-anagrams.js)
 
+- [98. Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/98-game-of-thrones.js)
+
 Will add the rest of the answers as I complete them.
