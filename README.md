@@ -298,4 +298,7 @@ In this repository you can find the solutions for the following problem solving 
 - [99. Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/99-two-strings.js)
 
+- [100. String Construction](https://www.hackerrank.com/challenges/string-construction/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/100-string-construction.js)
+
 Will add the rest of the answers as I complete them.
