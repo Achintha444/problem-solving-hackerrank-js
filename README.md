@@ -301,4 +301,7 @@ In this repository you can find the solutions for the following problem solving 
 - [100. String Construction](https://www.hackerrank.com/challenges/string-construction/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/100-string-construction.js)
 
+- [101. Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/problem-solving-hackerrank-js/blob/main/101-sherlock-and-valid-string.js)
+
 Will add the rest of the answers as I complete them.
